@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>$FIRECAT — Chillest Meme Coin on Solana</title>
+  <style>
+    body {
+      background-color: #0b0c10;
+      color: #f8f8f2;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0 16px;
+    }
+    header, footer {
+      text-align: center;
+      padding: 20px 0;
+    }
+    h1 {
+      color: #ff6b00;
+    }
+    section {
+      margin: 40px 0;
+    }
+    a {
+      color: #ff6b00;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .tokenomics, .roadmap, .links {
+      background: #1f1f1f;
+      padding: 20px;
+      border-radius: 10px;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    li::before {
+      content: "🔥 ";
+    }
+    .center-img {
+      display: block;
+      margin: 20px auto;
+      max-width: 100%;
+      border-radius: 10px;
+      box-shadow: 0 0 15px rgba(255, 107, 0, 0.5);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>$FIRECAT — The Chillest Meme Coin on Solana</h1>
+    <p>Three cats. One fire. Infinite vibes.</p>
+  </header>
+
+  <!-- 🔥 GIF Section -->
+  <section style="text-align: center;">
+    <img src="https://u.cubeupload.com/Aflac/catsitting.gif" 
+         alt="$FIRECAT Meme GIF" 
+         class="center-img"/>
+  </section>
+
+  <section class="tokenomics">
+    <h2>🧾 Tokenomics</h2>
+    <ul>
+      <li>Total Supply: 1,000,000,000,000 (1T)</li>
+      <li>LP Allocation: 85%</li>
+      <li>Team Wallet: 15%</li>
+      <li>Taxes: 0%</li>
+      <li>LP Status: Burned or Locked 🔐</li>
+      <li>Chain: Solana (SOL)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>🚀 Why $FIRECAT?</h2>
+    <ul>
+      <li>Based on the legendary fire cat meme</li>
+      <li>Built on Solana — fast, cheap, and liquid</li>
+      <li>No roadmaps, just pawprints on the moon</li>
+      <li>Meme meta + community = long-term energy</li>
+    </ul>
+  </section>
+
+  <section class="roadmap">
+    <h2>📍 Roadmap</h2>
+    <h3>Phase 1: Ignite</h3>
+    <ul>
+      <li>Token launch</li>
+      <li>Raydium LP</li>
+      <li>DexScreener listing</li>
+      <li>Memes on Twitter daily</li>
+    </ul>
+    <h3>Phase 2: Spread the Flame</h3>
+    <ul>
+      <li>Website live</li>
+      <li>Community contests</li>
+      <li>Listings on CoinGecko, CMC</li>
+    </ul>
+    <h3>Phase 3: The Campfire Never Dies</h3>
+    <ul>
+      <li>FireDAO (maybe?)</li>
+      <li>"Campfire Cats" NFTs</li>
+      <li>FIRECAT merch</li>
+    </ul>
+  </section>
+
+  <section class="links">
+    <h2>🌐 Official Links</h2>
+    <p><strong>Twitter:</strong> <a href="https://twitter.com/firecatcoin" target="_blank">@firecatcoin</a></p>
+    <p><strong>Token Address:</strong> Coming soon</p>
+    <p><strong>Raydium:</strong> Coming soon</p>
+    <p><strong>DexScreener:</strong> Coming soon</p>
+  </section>
+
+  <footer>
+    <p>Pull up a chair. Light the cigar. Let’s send it to the moon. 🔥</p>
+    <p>$FIRECAT — Light up.</p>
+  </footer>
+</body>
+</html>
